@@ -3,9 +3,9 @@ export default {
     number: {
         type: "BOT",
         country: "ID",
-        number: "16319311234"
+        number: "xxxxxxx" // Number Bot
     },
-    usePairingCode: true,
+    usePairingCode: true, // Pairing Code
     prefix: ".",
     write_store: false,
     self: true
