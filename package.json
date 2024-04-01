@@ -1,0 +1,16 @@
+{
+  "name": "olxyzbot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@xyzendev - Adriansyah",
+  "license": "MIT",
+  "dependencies": {
+    "@xyzendev/license": "^1.0.0",
+    "@xyzendev/modules": "^1.1.0-rc"
+  }
+}
